@@ -69,6 +69,10 @@ a {
     align-items: center;
 }
 
+embed {
+    display: flex;
+}
+
 a:hover {
     background-color: aquamarine;
     color: black;
