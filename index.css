@@ -71,7 +71,7 @@ a {
 
 embed {
     display: flex;
-    height: auto;
+    height: 30px;
 }
 
 a:hover {
